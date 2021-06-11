@@ -1,18 +1,17 @@
 👋 Hey everyone! My name is George Malandrakis and I am a software developer. I was born and raised in Greece and I am currently settled in Sweden. 
 
   I have a BSc in Computer Engineering and I study part-time for a second one in Mathematics. I have been interested in computer 
-programming since my teen years, and work as a fulltime developer since 2018. 
+programming since my teen years, and work as a fulltime developer since 2018. I work as a fullstack dev, yet I have a predilection for the backend.
 
-  I consider myself a fullstack dev, yet I actually have a predilection for the backend, which I perceive to be the core of an application. 
-My main programming language so far has been Java, and I've also engaged in several complex and interesting Javascript/Typescript projects. I've done
+  My main programming language so far has been Java, and I've also engaged in several complex and interesting Javascript/Typescript projects. I've done
 some projects with Matlab and Python(Django) in the past, but I no longer really use them.
 
-  Unlike other devs, I prefer to spend my spare time on activities such as socializing, reading history, discussing politics, creative writing, solving maths, and hit the gym when time allows it. Yet I've lately developed a strong interest in system/kernel programming as well. Hence that I spend some hours every weekend in broadening my knowledge of C and x86 Assembly and reading through Kernel codes (not quite sure if OS programming is good for one's well-being!).
+  Unlike other devs, I prefer to spend my spare time on activities such as socializing, reading history, discussing politics, creative writing, solving maths, and hit the gym when time allows it. Yet I've lately developed a strong interest in system/kernel programming as well, and I spend some hours every weekend becoming better at it.
 
-  Most of my repos here are private and I am not really interesting in getting a new job, though offers are always welcome, especially for work in Sweden or
+  Most of my repos here are private and I am not really interested in getting a new job, though offers are always welcome, especially for work in Sweden or
 Norway. 
   
-  You can contact me via gmail (malandrakisgeo). You may use Greek, English, German, or Swedish. You may even use Norwegian, but I'll most likely reply in Swedish. Sometime in the future, when I complete my math BSc, more languages will be added. 
+  You can contact me via gmail (malandrakisgeo). You may use Greek, English, German, or Swedish. You may even use Norwegian, but I'll most likely reply in Swedish. 
 
 
 
